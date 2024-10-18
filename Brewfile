@@ -27,6 +27,7 @@ brew graphite2
 brew harfbuzz
 brew highway
 brew icu4c
+brew icu4c@75
 brew imath
 brew jpeg-turbo
 brew jpeg-xl
@@ -37,6 +38,7 @@ brew libarchive
 brew libass
 brew libb2
 brew libbluray
+brew libdeflate
 brew libevent
 brew libidn2
 brew liblinear
@@ -89,6 +91,7 @@ brew pngquant
 brew python-packaging
 brew python@3.11
 brew python@3.12
+brew python@3.13
 brew rav1e
 brew readline
 brew rtmpdump
