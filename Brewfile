@@ -86,6 +86,7 @@ brew pango
 brew pcre2
 brew pixman
 brew pngquant
+brew python-packaging
 brew python@3.11
 brew python@3.12
 brew rav1e
@@ -120,7 +121,6 @@ cask firefox
 cask google-chrome
 cask google-japanese-ime
 cask iina
-cask kindle
 cask notion
 cask spotify
 cask stolendata-mpv
@@ -141,7 +141,10 @@ brew brew-file
 tap yt-dlp/taps
 
 # App Store applications
-appstore 1024640650 CotEditor (5.0.0)
+appstore 302584613 Amazon Kindle (7.21)
+appstore 1024640650 CotEditor (5.0.3)
+appstore 682658836 GarageBand (10.4.11)
 appstore 784801555 Microsoft OneNote (16.89.1)
 appstore 823766827 OneDrive (24.166.0818)
 appstore 425424353 The Unarchiver (4.3.8)
+appstore 417934534 VirtualDJ Home (7.0.5)
