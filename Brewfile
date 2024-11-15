@@ -26,7 +26,6 @@ brew gnutls
 brew graphite2
 brew harfbuzz
 brew highway
-brew icu4c@75
 brew imath
 brew jpeg-turbo
 brew jpeg-xl
@@ -130,7 +129,6 @@ cask telegram
 cask thunderbird
 cask visual-studio-code
 cask warp
-cask zoom
 
 tap homebrew/bundle
 
@@ -151,6 +149,6 @@ appstore 302584613 Amazon Kindle (7.23)
 appstore 1024640650 CotEditor (5.0.4)
 appstore 682658836 GarageBand (10.4.11)
 appstore 784801555 Microsoft OneNote (16.91)
-appstore 823766827 OneDrive (24.201.1006)
+appstore 823766827 OneDrive (24.206.1013)
 appstore 425424353 The Unarchiver (4.3.8)
 appstore 417934534 VirtualDJ Home (7.0.5)
