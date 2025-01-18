@@ -4,6 +4,7 @@
 tap homebrew/core
 brew aom
 brew aribb24
+brew autoconf
 brew brotli
 brew ca-certificates
 brew cairo
@@ -69,6 +70,7 @@ brew little-cms2
 brew lua
 brew lz4
 brew lzo
+brew m4
 brew mas
 brew mbedtls
 brew mpdecimal
@@ -85,7 +87,9 @@ brew p11-kit
 brew pango
 brew pcre2
 brew pixman
+brew pkgconf
 brew pngquant
+brew pyenv
 brew python-packaging
 brew python@3.11
 brew python@3.12
@@ -145,10 +149,10 @@ tap yt-dlp/taps
 brew icu4c
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.23)
-appstore 1024640650 CotEditor (5.0.4)
+appstore 302584613 Amazon Kindle (7.23.2)
+appstore 1024640650 CotEditor (5.0.7)
 appstore 682658836 GarageBand (10.4.11)
-appstore 784801555 Microsoft OneNote (16.91)
-appstore 823766827 OneDrive (24.206.1013)
+appstore 784801555 Microsoft OneNote (16.92)
+appstore 823766827 OneDrive (24.226.1110)
 appstore 425424353 The Unarchiver (4.3.8)
 appstore 417934534 VirtualDJ Home (7.0.5)
