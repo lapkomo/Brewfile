@@ -77,6 +77,7 @@ brew mpdecimal
 brew mpg123
 brew nettle
 brew nmap
+brew nodebrew
 brew oniguruma
 brew opencore-amr
 brew openexr
@@ -149,10 +150,10 @@ tap yt-dlp/taps
 brew icu4c
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.23.2)
-appstore 1024640650 CotEditor (5.0.7)
+appstore 302584613 Amazon Kindle (7.24)
+appstore 1024640650 CotEditor (5.0.8)
 appstore 682658836 GarageBand (10.4.11)
-appstore 784801555 Microsoft OneNote (16.92)
+appstore 784801555 Microsoft OneNote (16.93)
 appstore 823766827 OneDrive (24.226.1110)
 appstore 425424353 The Unarchiver (4.3.8)
 appstore 417934534 VirtualDJ Home (7.0.5)
