@@ -28,6 +28,7 @@ brew graphite2
 brew harfbuzz
 brew highway
 brew icu4c@76
+brew icu4c@77
 brew imath
 brew jpeg-turbo
 brew jpeg-xl
