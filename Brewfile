@@ -94,7 +94,6 @@ brew pixman
 brew pkgconf
 brew pngquant
 brew pyenv
-brew python-packaging
 brew python@3.11
 brew python@3.12
 brew python@3.13
