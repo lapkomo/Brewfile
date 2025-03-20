@@ -27,6 +27,7 @@ brew gnutls
 brew graphite2
 brew harfbuzz
 brew highway
+brew icu4c@76
 brew imath
 brew jpeg-turbo
 brew jpeg-xl
@@ -66,6 +67,7 @@ brew libxcb
 brew libxdmcp
 brew libxext
 brew libxrender
+brew libyaml
 brew little-cms2
 brew lua
 brew lz4
@@ -96,9 +98,11 @@ brew python@3.11
 brew python@3.12
 brew python@3.13
 brew rav1e
+brew rbenv
 brew readline
 brew rtmpdump
 brew rubberband
+brew ruby-build
 brew sdl2
 brew snappy
 brew speex
@@ -146,14 +150,12 @@ brew brew-file
 
 tap yt-dlp/taps
 
-# Other Homebrew packages
-brew icu4c
-
 # App Store applications
-appstore 302584613 Amazon Kindle (7.24)
-appstore 1024640650 CotEditor (5.0.8)
-appstore 682658836 GarageBand (10.4.11)
-appstore 784801555 Microsoft OneNote (16.93)
-appstore 823766827 OneDrive (24.226.1110)
-appstore 425424353 The Unarchiver (4.3.8)
+appstore 302584613 Amazon Kindle (7.27.1)
+appstore 1024640650 CotEditor (5.1.2)
+appstore 682658836 GarageBand (10.4.12)
+appstore 784801555 Microsoft OneNote (16.95.1)
+appstore 823766827 OneDrive (25.020.0202)
+appstore 425424353 The Unarchiver (4.3.9)
 appstore 417934534 VirtualDJ Home (7.0.5)
+appstore 497799835 Xcode (16.2)
