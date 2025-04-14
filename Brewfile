@@ -151,11 +151,11 @@ brew brew-file
 tap yt-dlp/taps
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.27.1)
-appstore 1024640650 CotEditor (5.1.2)
+appstore 302584613 Amazon Kindle (7.29)
+appstore 1024640650 CotEditor (5.1.3)
 appstore 682658836 GarageBand (10.4.12)
 appstore 784801555 Microsoft OneNote (16.95.1)
-appstore 823766827 OneDrive (25.020.0202)
+appstore 823766827 OneDrive (25.046.0310)
 appstore 425424353 The Unarchiver (4.3.9)
 appstore 417934534 VirtualDJ Home (7.0.5)
-appstore 497799835 Xcode (16.2)
+appstore 497799835 Xcode (16.3)
