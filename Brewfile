@@ -116,6 +116,7 @@ brew svt-av1
 brew tesseract
 brew theora
 brew unbound
+brew uv
 brew webp
 brew x264
 brew x265
