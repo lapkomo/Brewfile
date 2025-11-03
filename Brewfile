@@ -45,6 +45,8 @@ brew libidn2
 brew liblinear
 brew libmicrohttpd
 brew libnghttp2
+brew libnghttp3
+brew libngtcp2
 brew libogg
 brew libpng
 brew librist
@@ -56,6 +58,7 @@ brew libssh
 brew libssh2
 brew libtasn1
 brew libtiff
+brew libudfread
 brew libunibreak
 brew libunistring
 brew libvidstab
@@ -85,6 +88,7 @@ brew oniguruma
 brew opencore-amr
 brew openexr
 brew openjpeg
+brew openjph
 brew openssl@3
 brew opus
 brew p11-kit
@@ -95,8 +99,8 @@ brew pkgconf
 brew pngquant
 brew pyenv
 brew python@3.11
-brew python@3.12
 brew python@3.13
+brew python@3.14
 brew rav1e
 brew rbenv
 brew readline
@@ -126,6 +130,7 @@ brew zstd
 tap homebrew/cask
 cask bettertouchtool
 cask box-sync
+cask claude-code
 cask clipy
 cask firefox
 cask google-chrome
@@ -151,11 +156,11 @@ brew brew-file
 tap yt-dlp/taps
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.29)
-appstore 1024640650 CotEditor (5.1.3)
+appstore 302584613 Amazon Kindle (7.43)
+appstore 1024640650 CotEditor (6.0.4)
 appstore 682658836 GarageBand (10.4.12)
-appstore 784801555 Microsoft OneNote (16.95.1)
-appstore 823766827 OneDrive (25.046.0310)
+appstore 784801555 Microsoft OneNote (16.102.2)
+appstore 823766827 OneDrive (25.184.0921)
 appstore 425424353 The Unarchiver (4.3.9)
 appstore 417934534 VirtualDJ Home (7.0.5)
-appstore 497799835 Xcode (16.3)
+appstore 497799835 Xcode (26.0.1)
