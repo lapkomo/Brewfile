@@ -97,7 +97,6 @@ brew pcre2
 brew pixman
 brew pkgconf
 brew pngquant
-brew pyenv
 brew python@3.11
 brew python@3.13
 brew python@3.14
@@ -138,6 +137,7 @@ cask google-chrome
 cask google-japanese-ime
 cask iina
 cask notion
+cask slack
 cask spotify
 cask stolendata-mpv
 cask telegram
