@@ -144,6 +144,7 @@ cask telegram
 cask thunderbird
 cask visual-studio-code
 cask warp
+cask zoom
 
 tap homebrew/bundle
 
@@ -157,11 +158,11 @@ brew brew-file
 tap yt-dlp/taps
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.43)
-appstore 1024640650 CotEditor (6.0.4)
+appstore 302584613 Amazon Kindle (7.44.1)
+appstore 1024640650 CotEditor (6.1.0)
 appstore 682658836 GarageBand (10.4.12)
-appstore 784801555 Microsoft OneNote (16.102.2)
+appstore 784801555 Microsoft OneNote (16.102.3)
 appstore 823766827 OneDrive (25.184.0921)
 appstore 425424353 The Unarchiver (4.3.9)
 appstore 417934534 VirtualDJ Home (7.0.5)
-appstore 497799835 Xcode (26.0.1)
+appstore 497799835 Xcode (26.1)
