@@ -12,6 +12,7 @@ brew certifi
 brew cjson
 brew curl
 brew dav1d
+brew deno
 brew ffmpeg
 brew flac
 brew fontconfig
@@ -29,6 +30,7 @@ brew harfbuzz
 brew highway
 brew icu4c@76
 brew icu4c@77
+brew icu4c@78
 brew imath
 brew jpeg-turbo
 brew jpeg-xl
@@ -70,6 +72,7 @@ brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
+brew libxml2
 brew libxrender
 brew libyaml
 brew little-cms2
@@ -78,7 +81,7 @@ brew lz4
 brew lzo
 brew m4
 brew mas
-brew mbedtls
+brew mbedtls@3
 brew mpdecimal
 brew mpg123
 brew nettle
@@ -111,6 +114,7 @@ brew snappy
 brew speex
 brew sqlite
 brew srt
+brew streamlink
 brew svt-av1
 brew tesseract
 brew theora
@@ -158,11 +162,7 @@ brew brew-file
 tap yt-dlp/taps
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.44.1)
-appstore 1024640650 CotEditor (6.1.0)
-appstore 682658836 GarageBand (10.4.12)
-appstore 784801555 Microsoft OneNote (16.102.3)
-appstore 823766827 OneDrive (25.184.0921)
-appstore 425424353 The Unarchiver (4.3.9)
-appstore 417934534 VirtualDJ Home (7.0.5)
-appstore 497799835 Xcode (26.1)
+appstore 302584613 Amazon Kindle (7.46.1)
+appstore 1024640650 CotEditor (6.1.2)
+appstore 784801555 Microsoft OneNote (16.103.2)
+appstore 823766827 OneDrive (25.206.1021)
