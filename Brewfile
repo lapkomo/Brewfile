@@ -29,7 +29,6 @@ brew leptonica
 brew libarchive
 brew libb2
 brew libdatrie
-brew libiconv
 brew liblinear
 brew libnghttp2
 brew libnghttp3
@@ -39,6 +38,7 @@ brew libssh2
 brew libthai
 brew libtiff
 brew libunistring
+brew libvmaf
 brew libvpx
 brew libx11
 brew libxau
@@ -67,7 +67,6 @@ brew pixman
 brew pkgconf
 brew pngquant
 brew python@3.11
-brew python@3.13
 brew python@3.14
 brew rbenv
 brew readline
@@ -115,11 +114,11 @@ brew brew-file
 tap yt-dlp/taps
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.52)
-appstore 1024640650 CotEditor (6.2.2)
-appstore 682658836 GarageBand (10.4.13)
-appstore 784801555 Microsoft OneNote (16.106)
-appstore 823766827 OneDrive (26.002.0105)
+appstore 302584613 Amazon Kindle (7.58)
+appstore 1024640650 CotEditor (7.0.3)
+appstore 682658836 GarageBand (10.4.14)
+appstore 784801555 Microsoft OneNote (16.109)
+appstore 823766827 OneDrive (26.070.0414)
 appstore 425424353 The Unarchiver (4.3.9)
 appstore 417934534 VirtualDJ Home (7.0.5)
-appstore 497799835 Xcode (26.2)
+appstore 497799835 Xcode (26.5)
