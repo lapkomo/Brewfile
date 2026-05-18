@@ -29,6 +29,7 @@ brew leptonica
 brew libarchive
 brew libb2
 brew libdatrie
+brew libiconv
 brew liblinear
 brew libnghttp2
 brew libnghttp3
@@ -67,6 +68,7 @@ brew pixman
 brew pkgconf
 brew pngquant
 brew python@3.11
+brew python@3.13
 brew python@3.14
 brew rbenv
 brew readline
