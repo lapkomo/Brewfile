@@ -8,6 +8,7 @@ brew ca-certificates
 brew cairo
 brew certifi
 brew curl
+brew dav1d
 brew deno
 brew ffmpeg
 brew fontconfig
@@ -20,7 +21,6 @@ brew glib
 brew graphite2
 brew harfbuzz
 brew icu4c@76
-brew icu4c@77
 brew icu4c@78
 brew jpeg-turbo
 brew jq
@@ -28,6 +28,7 @@ brew lame
 brew leptonica
 brew libarchive
 brew libb2
+brew libdatrie
 brew libiconv
 brew liblinear
 brew libnghttp2
@@ -35,8 +36,10 @@ brew libnghttp3
 brew libngtcp2
 brew libpng
 brew libssh2
+brew libthai
 brew libtiff
 brew libunistring
+brew libvpx
 brew libx11
 brew libxau
 brew libxcb
@@ -68,7 +71,6 @@ brew python@3.13
 brew python@3.14
 brew rbenv
 brew readline
-brew rtmpdump
 brew ruby-build
 brew sdl2
 brew sqlite
@@ -78,6 +80,7 @@ brew tesseract
 brew uv
 brew webp
 brew x264
+brew x265
 brew xorgproto
 brew xz
 brew yt-dlp
@@ -85,8 +88,6 @@ brew zstd
 
 tap homebrew/cask
 cask bettertouchtool
-cask box-sync
-cask claude-code
 cask clipy
 cask firefox
 cask google-chrome
@@ -114,11 +115,11 @@ brew brew-file
 tap yt-dlp/taps
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.50)
-appstore 1024640650 CotEditor (6.2.1)
+appstore 302584613 Amazon Kindle (7.52)
+appstore 1024640650 CotEditor (6.2.2)
 appstore 682658836 GarageBand (10.4.13)
-appstore 784801555 Microsoft OneNote (16.105)
-appstore 823766827 OneDrive (25.224.1116)
+appstore 784801555 Microsoft OneNote (16.106)
+appstore 823766827 OneDrive (26.002.0105)
 appstore 425424353 The Unarchiver (4.3.9)
 appstore 417934534 VirtualDJ Home (7.0.5)
 appstore 497799835 Xcode (26.2)
